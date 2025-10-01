@@ -1,0 +1,11 @@
+# venv & Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# macOS
+.DS_Store
