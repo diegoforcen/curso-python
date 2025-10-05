@@ -12,5 +12,6 @@ def demo_tipos():
     print("Edad como string:", str(edad))
     print("Altura redondeada a int:", int(altura))
 
+
 if __name__ == "__main__":
     demo_tipos()
